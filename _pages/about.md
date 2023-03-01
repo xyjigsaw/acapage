@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <span class='paper-badge'>ICIC 2019</span> Jianfeng Qiu, Fan Cheng, Lei Zhang, and **Yi Xu (Corresponding Author)**, A Diversity based Competitive Multi-objective PSO for Feature Selection in *Intelligent Computing Theories and Application*, 2019, <span style="color:red">(Oral)</span> [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
 
 
-<span style="color:grey; padding-left:18px;">Three papers submitted to CCF-A conference/journal are under review.</span>
+<span style="color:grey; padding-left:5px;">Three papers submitted to CCF-A conference/journal are under review.</span>
 
 
 
