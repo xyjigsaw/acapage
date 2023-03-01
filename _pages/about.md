@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm pursuing my doctoral degree in Computer Science in Acemap, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html) and [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/).
+<div class="introduction" style="font-size: 1.2em;"> 
+I'm pursuing my doctoral degree in Computer Science in [Acemap](https://www.acemap.info/) <img src='./images/acemap_logo.png' style='width: 6em;'>, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html) and [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/).
 
-My research interests include natural language processing, knowledge graphs and data mining. Specifically, I am devoted to research of large language models and temporal knowledge graph.
+My research interests include **natural language processing**, **knowledge graphs** and **data mining**. Specifically, I am devoted to research of large language models and temporal knowledge graph.
+</div>
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -30,8 +32,32 @@ My research interest includes neural machine translation and computer vision. I 
 
 -->
 
+# 🚀 Projects
 
-# 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DeepReport</div><img src='images/deepreport.png' alt="sym" width="500px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeepReport Beta](https://idea.acemap.cn/)
+
+Supported by the [Deep-time Digital Earth (DDE) International Big Science Program](https://www.ddeworld.org/), we construct DeepReport to inspire researchers for knowledge discovery. DeepReport provides paper retrieval, insights extraction, concept exploration, knowledge summarization and generation.
+</div>
+</div>
+
+
+
+# 📝 Publications <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+
+- <span style="background-color:#03228d; color: white; font-size: .6875em;">AAAI</span> **Yi Xu**, Junjie Ou, Hui Xu, and Luoyi Fu, Temporal Knowledge Graph Reasoning with Historical Contrastive Learning in **AAAI**, 2023, <span style="color:red">(Oral)</span>, [Page](https://arxiv.org/abs/2211.10904)  [PDF](https://arxiv.org/pdf/2211.10904)
+
+- **Yi Xu**, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang, INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion in **arxiv (preprint)**, 2022, [Page](https://arxiv.org/abs/2209.10754)  [PDF](https://arxiv.org/pdf/2209.10754)
+
+- <span style="background-color:#03228d; color: white; font-size: .6875em;">TCYB</span> Fan Cheng*, Feixiang Chu, **Yi Xu**, and Lei Zhang, A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection in **IEEE Transactions on Cybernetics**, 2021, [Page](https://ieeexplore.ieee.org/abstract/document/9371430/)  [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
+
+- <span style="background-color:#03228d; color: white; font-size: .6875em;">ICIC</span> Jianfeng Qiu, Fan Cheng, Lei Zhang, and **Yi Xu (Corresponding)**, A Diversity based Competitive Multi-objective PSO for Feature Selection in **Intelligent Computing Theories and Application**, 2019, <span style="color:red">(Oral)</span> [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
+
+
+<span style="color:grey;">Three papers submitted to CCF-A conference/journal are under review.</span>
 
 <!--
 
@@ -49,14 +75,6 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 
-- **Yi Xu**, Junjie Ou, Hui Xu, and Luoyi Fu, Temporal Knowledge Graph Reasoning with Historical Contrastive Learning in ``AAAI 2023`` <span style="color:red">(Oral)</span>, [Page](https://arxiv.org/abs/2211.10904) [PDF](https://arxiv.org/pdf/2211.10904)
-
-- **Yi Xu**, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang, INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion in ``arxiv (preprint) 2022``, [Page](https://arxiv.org/abs/2209.10754) [PDF](https://arxiv.org/pdf/2209.10754)
-
-- Fan Cheng*, Feixiang Chu, **Yi Xu**, and Lei Zhang, A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection in ``IEEE Transactions on Cybernetics``, 2021, [Page](https://ieeexplore.ieee.org/abstract/document/9371430/) [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
-
-- Jianfeng Qiu, Fan Cheng, Lei Zhang, and **Yi Xu**, A Diversity based Competitive Multi-objective PSO for Feature Selection in ``Intelligent Computing Theories and Application``, 2019 [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
-
 <!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -69,14 +87,13 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📖 Services
-## Journal Reviewer
+### Journal Reviewer
 - IEEE Transactions on Network Science and Engineering
 - China Communications
 
-## 🖌️ External Reviewer
+### External Reviewer
 - 2023: ACL
-- 2022: AAAI
-- 2022: SIGMETRICS
+- 2022: AAAI, SIGMETRICS
 
 
 # 📚 Teaching Assistant
