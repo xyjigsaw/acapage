@@ -7,16 +7,16 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-publications-"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Projects"
+    url: "/#-projects"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Services"
+    url: "/#-services"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Teaching Assistant"
+    url: "/#-teaching-assistant"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Blog"
+    url: "https://en.omegaxyz.com/"

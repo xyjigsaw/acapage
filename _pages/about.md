@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm pursuing my doctoral degree in Computer Science in <a href="https://www.acemap.info/"><img src='./images/acemap_logo.png' style='width: 4em;'></a>, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html) and [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/).
+I'm pursuing my doctoral degree in Computer Science in <a href="https://www.acemap.info/"><img src='./images/acemap_logo.png' style='width: 4em; border-radius: 5px;'></a>, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html) and [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/).
 
 My research interests include **natural language processing**, **knowledge graphs** and **data mining**. Specifically, I am devoted to research of large language models and temporal knowledge graph.
 
@@ -33,16 +33,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-# 📝 Publications <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+# 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
-- <span class='paper-badge'>AAAI 2023</span> **Yi Xu**, Junjie Ou, Hui Xu, and Luoyi Fu, Temporal Knowledge Graph Reasoning with Historical Contrastive Learning in **AAAI**, 2023, <span style="color:red">(Oral)</span>, [Page](https://arxiv.org/abs/2211.10904), [PDF](https://arxiv.org/pdf/2211.10904)
+- <span class='paper-badge'>AAAI 2023</span> **Yi Xu**, Junjie Ou, Hui Xu, and Luoyi Fu, Temporal Knowledge Graph Reasoning with Historical Contrastive Learning in *AAAI*, 2023, <span style="color:red">(Oral)</span>, [Page](https://arxiv.org/abs/2211.10904), [PDF](https://arxiv.org/pdf/2211.10904)
 
-- <span class='paper-badge'>arXiv 2022</span> **Yi Xu**, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang, INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion in **arXiv (preprint)**, 2022, [Page](https://arxiv.org/abs/2209.10754), [PDF](https://arxiv.org/pdf/2209.10754)
+- <span class='paper-badge'>arXiv 2022</span> **Yi Xu**, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang, INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion in *arXiv (preprint)*, 2022, [Page](https://arxiv.org/abs/2209.10754), [PDF](https://arxiv.org/pdf/2209.10754)
 
-- <span class='paper-badge'>TCYB 2021</span> Fan Cheng*, Feixiang Chu, **Yi Xu**, and Lei Zhang, A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection in **IEEE Transactions on Cybernetics**, 2021, [Page](https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
+- <span class='paper-badge'>TCYB 2021</span> Fan Cheng*, Feixiang Chu, **Yi Xu**, and Lei Zhang, A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection in *IEEE Transactions on Cybernetics*, 2021, [Page](https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
 
-- <span class='paper-badge'>ICIC 2019</span> Jianfeng Qiu, Fan Cheng, Lei Zhang, and **Yi Xu (Corresponding)**, A Diversity based Competitive Multi-objective PSO for Feature Selection in **Intelligent Computing Theories and Application**, 2019, <span style="color:red">(Oral)</span> [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
+- <span class='paper-badge'>ICIC 2019</span> Jianfeng Qiu, Fan Cheng, Lei Zhang, and **Yi Xu (Corresponding)**, A Diversity based Competitive Multi-objective PSO for Feature Selection in *Intelligent Computing Theories and Application*, 2019, <span style="color:red">(Oral)</span> [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
 
 
 <span style="color:grey; padding-left:18px;">Three papers submitted to CCF-A conference/journal are under review.</span>
@@ -51,7 +51,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🚀 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div style="margin-left:20px;"><div class="badge">BETA</div><img src='images/deepreport.png' alt="sym" width="500px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BETA</div><img src='images/deepreport.png' alt="sym" width="500px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [DeepReport Beta](https://idea.acemap.cn/)
@@ -103,6 +103,7 @@ Supported by the [Deep-time Digital Earth (DDE) International Big Science Progra
 - Teaching Assistant, Mobile Internet, Shanghai Jiao Tong University (Spring 2022)
 - Teaching Assistant, Data Structure and Algorithm, Shanghai Jiao Tong University (Fall 2021)
 - Teaching Assistant, Thinking and Approach of Programming, Shanghai Jiao Tong University (Fall 2020)
+
 
 <!--
 # 💬 Invited Talks
