@@ -40,9 +40,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 - <span class='paper-badge'>arXiv 2022</span> **Yi Xu**, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang, INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion in *arXiv (preprint)*, 2022, [Page](https://arxiv.org/abs/2209.10754), [PDF](https://arxiv.org/pdf/2209.10754)
 
-- <span class='paper-badge'>TCYB 2021</span> Fan Cheng*, Feixiang Chu, **Yi Xu**, and Lei Zhang, A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection in *IEEE Transactions on Cybernetics*, 2021, [Page](https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
+- <span class='paper-badge'>TCYB 2021</span> Fan Cheng, Feixiang Chu, **Yi Xu**, and Lei Zhang, A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection in *IEEE Transactions on Cybernetics*, 2021, [Page](https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
 
-- <span class='paper-badge'>ICIC 2019</span> Jianfeng Qiu, Fan Cheng, Lei Zhang, and **Yi Xu (Corresponding)**, A Diversity based Competitive Multi-objective PSO for Feature Selection in *Intelligent Computing Theories and Application*, 2019, <span style="color:red">(Oral)</span> [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
+- <span class='paper-badge'>ICIC 2019</span> Jianfeng Qiu, Fan Cheng, Lei Zhang, and **Yi Xu (Corresponding Author)**, A Diversity based Competitive Multi-objective PSO for Feature Selection in *Intelligent Computing Theories and Application*, 2019, <span style="color:red">(Oral)</span> [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
 
 
 <span style="color:grey; padding-left:18px;">Three papers submitted to CCF-A conference/journal are under review.</span>
@@ -51,7 +51,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🚀 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BETA</div><img src='images/deepreport.png' alt="sym" width="500px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BETA</div><img src='images/deepreport.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [DeepReport Beta](https://idea.acemap.cn/)
