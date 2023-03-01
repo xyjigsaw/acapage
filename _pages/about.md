@@ -21,6 +21,8 @@ I'm pursuing my doctoral degree in Computer Science in <a href="https://www.acem
 
 My research interests include **natural language processing**, **knowledge graphs** and **data mining**. Specifically, I am devoted to research of large language models and temporal knowledge graph.
 
+What's more, welcome to my technical blog [en.omegaxyz.com](https://en.omegaxyz.com/) and [中文博客](https://www.omegaxyz.com/).
+
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -45,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <span class='paper-badge'>ICIC 2019</span> Jianfeng Qiu, Fan Cheng, Lei Zhang, and **Yi Xu (Corresponding Author)**, A Diversity based Competitive Multi-objective PSO for Feature Selection in *Intelligent Computing Theories and Application*, 2019, <span style="color:red">(Oral)</span> [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
 
 
-<span style="color:grey; padding-left:5px;">Three papers submitted to CCF-A conference/journal are under review.</span>
+<span style="color:grey; padding-left:5px;">Three papers submitted to CCF-A conference are under review.</span>
 
 
 
@@ -54,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BETA</div><img src='images/deepreport.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [DeepReport Beta](https://idea.acemap.cn/)
+### [DeepReport Beta](https://idea.acemap.cn/)
 
 Supported by the [Deep-time Digital Earth (DDE) International Big Science Program](https://www.ddeworld.org/), we construct DeepReport to inspire researchers for knowledge discovery. DeepReport provides paper retrieval, insights extraction, concept exploration, knowledge summarization and generation.
 </div>
@@ -89,7 +91,7 @@ Supported by the [Deep-time Digital Earth (DDE) International Big Science Progra
 -->
 
 # 📖 Services
-### Journal Reviewer
+### [Journal Reviewer](https://www.webofscience.com/wos/author/record/HJG-4521-2022)
 - IEEE Transactions on Network Science and Engineering
 - China Communications
 
