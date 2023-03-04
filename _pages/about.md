@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
-- <span class='paper-badge'>AAAI 2023</span> **Yi Xu**, Junjie Ou, Hui Xu, and Luoyi Fu, Temporal Knowledge Graph Reasoning with Historical Contrastive Learning in *AAAI*, 2023, <span style="color:red">(Oral)</span>, [Page](https://arxiv.org/abs/2211.10904), [PDF](https://arxiv.org/pdf/2211.10904)
+- <span class='paper-badge'>AAAI 2023</span> **Yi Xu**, Junjie Ou, Hui Xu, and Luoyi Fu, Temporal Knowledge Graph Reasoning with Historical Contrastive Learning in *AAAI*, 2023, <span style="color:red">(Oral)</span>, [Page](https://arxiv.org/abs/2211.10904), [PDF](https://arxiv.org/pdf/2211.10904), [Media](https://mp.weixin.qq.com/s/qDw3W282gDk-9nw7rkWphQ)
 
 - <span class='paper-badge'>arXiv 2022</span> **Yi Xu**, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang, INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion in *arXiv (preprint)*, 2022, [Page](https://arxiv.org/abs/2209.10754), [PDF](https://arxiv.org/pdf/2209.10754)
 
@@ -96,11 +96,11 @@ Supported by the [Deep-time Digital Earth (DDE) International Big Science Progra
 - China Communications
 
 ### External Reviewer
-- 2023: ACL
+- 2023: ACL, SIGMETRICS
 - 2022: AAAI, SIGMETRICS
 
 
-# 📚 Teaching Assistant
+# 📚 Teaching
 - Teaching Assistant, Data Structure and Algorithm (IEEE Class), Shanghai Jiao Tong University (Fall 2022)
 - Teaching Assistant, Mobile Internet, Shanghai Jiao Tong University (Spring 2022)
 - Teaching Assistant, Data Structure and Algorithm, Shanghai Jiao Tong University (Fall 2021)
