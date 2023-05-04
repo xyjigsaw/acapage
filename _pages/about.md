@@ -27,24 +27,29 @@ What's more, welcome to my technical blog [OmegaXYZ](https://en.omegaxyz.com/) a
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 -->
 
+
+# 🔥 News
+- *2023.05.02*: &nbsp; 🎉 Two long papers are accepted by ACL 2023 main conference. 
+- *2023.04.27*: &nbsp; I am invited to give a talk for a [temporal graph (TG) reading group](https://www.cs.mcgill.ca/~shuang43/rg.html) held by McGill University, Mila, NEC Laboratories Europe and University of Mannheim.
+- *2022.11.19*: &nbsp; 🎉 A paper is accepted by AAAI 2023.
 
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
-- <span class='paper-badge'>AAAI 2023</span> **Yi Xu**, Junjie Ou, Hui Xu, and Luoyi Fu, Temporal Knowledge Graph Reasoning with Historical Contrastive Learning in *AAAI*, 2023, <span style="color:red">(Oral)</span>, [Page](https://arxiv.org/abs/2211.10904), [PDF](https://arxiv.org/pdf/2211.10904), [Media](https://mp.weixin.qq.com/s/qDw3W282gDk-9nw7rkWphQ)
+- <span class='paper-badge'>ACL 2023</span> **Exploring and Verbalizing Academic Ideas by Concept Co-occurrence**, **Yi Xu**, Shuqian Sheng, Bo Xue, Luoyi Fu, Xinbing Wang and Chenghu Zhou, in *ACL*, 2023
 
-- <span class='paper-badge'>arXiv 2022</span> **Yi Xu**, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang, INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion in *arXiv (preprint)*, 2022, [Page](https://arxiv.org/abs/2209.10754), [PDF](https://arxiv.org/pdf/2209.10754)
+- <span class='paper-badge'>ACL 2023</span> **Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Language Model**, **Yi Xu**, Shuqian Sheng, Jiexing Qi, Luoyi Fu, Zhouhan Lin, Xinbing Wang and Chenghu Zhou, in *ACL*, 2023
 
-- <span class='paper-badge'>TCYB 2021</span> Fan Cheng, Feixiang Chu, **Yi Xu**, and Lei Zhang, A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection in *IEEE Transactions on Cybernetics*, 2021, [Page](https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
+- <span class='paper-badge'>AAAI 2023</span> **Temporal Knowledge Graph Reasoning with Historical Contrastive Learning**, **Yi Xu**, Junjie Ou, Hui Xu, and Luoyi Fu, in *AAAI*, 2023, <span style="color:red">(Oral)</span>, [Page](https://arxiv.org/abs/2211.10904), [PDF](https://arxiv.org/pdf/2211.10904), [Media](https://mp.weixin.qq.com/s/qDw3W282gDk-9nw7rkWphQ)
 
-- <span class='paper-badge'>ICIC 2019</span> Jianfeng Qiu, Fan Cheng, Lei Zhang, and **Yi Xu (Corresponding Author)**, A Diversity based Competitive Multi-objective PSO for Feature Selection in *Intelligent Computing Theories and Application*, 2019, <span style="color:red">(Oral)</span> [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
+- <span class='paper-badge'>arXiv 2022</span> **INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**, **Yi Xu**, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang, in *arXiv (preprint)*, 2022, [Page](https://arxiv.org/abs/2209.10754), [PDF](https://arxiv.org/pdf/2209.10754)
+
+- <span class='paper-badge'>TCYB 2021</span> **A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection**, Fan Cheng, Feixiang Chu, **Yi Xu**, and Lei Zhang, in *IEEE Transactions on Cybernetics*, 2021, [Page](https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
+
+- <span class='paper-badge'>ICIC 2019</span> **A Diversity based Competitive Multi-objective PSO for Feature Selection**, Jianfeng Qiu, Fan Cheng, Lei Zhang, and **Yi Xu (Corresponding Author)**, in *Intelligent Computing Theories and Application*, 2019, <span style="color:red">(Oral)</span> [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
 
 
 <span style="color:grey; padding-left:5px;">Three papers submitted to CCF-A conference are under review.</span>

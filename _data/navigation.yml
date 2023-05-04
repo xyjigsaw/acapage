@@ -15,8 +15,8 @@ main:
   - title: "Services"
     url: "/#-services"
 
-  - title: "Teaching Assistant"
-    url: "/#-teaching-assistant"
+  - title: "Teaching"
+    url: "/#-teaching"
 
   - title: "Blog"
     url: "https://en.omegaxyz.com/"
