@@ -26,13 +26,12 @@ What's more, welcome to my technical blog [OmegaXYZ](https://en.omegaxyz.com/) a
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 -->
 
 
 # 🔥 News
 - *2023.05.02*: &nbsp; 🎉 Two long papers are accepted by ACL 2023 main conference. 
-- *2023.04.27*: &nbsp; I am invited to give a talk for a [temporal graph (TG) reading group](https://www.cs.mcgill.ca/~shuang43/rg.html) held by McGill University, Mila, NEC Laboratories Europe and University of Mannheim.
+- *2023.04.27*: &nbsp; I am invited to give a talk💬 for a [temporal graph (TG) reading group](https://www.cs.mcgill.ca/~shuang43/rg.html) held by McGill University, Mila, NEC Laboratories Europe and University of Mannheim.
 - *2022.11.19*: &nbsp; 🎉 A paper is accepted by AAAI 2023.
 
 
