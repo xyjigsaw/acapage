@@ -60,7 +60,7 @@ In: *arXiv (preprint)*, 2022<br>
 - <span class='paper-badge'>TCYB 2021</span> **A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection**<br>
 *Fan Cheng, Feixiang Chu, <u>Yi Xu</u>, and Lei Zhang*<br>
 In: *IEEE Transactions on Cybernetics*, 2021 (SCI-Q1, IF:19.118, CCF-B)<br>
-<span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view">Page</a></span> <span class='paper-asset'><a href="https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view">PDF</a></span> <a href="https://github.com/BIMK/SM-MOEA">Code</a></span>
+<span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view">Page</a></span> <span class='paper-asset'><a href="https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view">PDF</a></span> <span class='paper-asset'><a href="https://github.com/BIMK/SM-MOEA">Code</a></span>
 
 - <span class='paper-badge'>ICIC 2019</span> **A Diversity based Competitive Multi-objective PSO for Feature Selection**<br>
 *Jianfeng Qiu, Fan Cheng, Lei Zhang, and <u>Yi Xu (Corresponding Author)</u>*<br>
