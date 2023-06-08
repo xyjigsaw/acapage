@@ -38,17 +38,29 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
-- <span class='paper-badge'>ACL 2023</span> **Exploring and Verbalizing Academic Ideas by Concept Co-occurrence**, *<u>Yi Xu</u>, Shuqian Sheng, Bo Xue, Luoyi Fu, Xinbing Wang and Chenghu Zhou*, in *ACL*, 2023
+- <span class='paper-badge'>ACL 2023</span> **Exploring and Verbalizing Academic Ideas by Concept Co-occurrence**
+*<u>Yi Xu</u>, Shuqian Sheng, Bo Xue, Luoyi Fu, Xinbing Wang and Chenghu Zhou*
+*ACL*, 2023
 
-- <span class='paper-badge'>ACL 2023</span> **Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Language Model**, *<u>Yi Xu</u>, Shuqian Sheng, Jiexing Qi, Luoyi Fu, Zhouhan Lin, Xinbing Wang and Chenghu Zhou*, in *ACL*, 2023
+- <span class='paper-badge'>ACL 2023</span> **Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Language Model**
+*<u>Yi Xu</u>, Shuqian Sheng, Jiexing Qi, Luoyi Fu, Zhouhan Lin, Xinbing Wang and Chenghu Zhou*
+*ACL*, 2023
 
-- <span class='paper-badge'>AAAI 2023</span> **Temporal Knowledge Graph Reasoning with Historical Contrastive Learning**, *<u>Yi Xu</u>, Junjie Ou, Hui Xu, and Luoyi Fu*, in *AAAI*, 2023, <span style="color:red">(Oral)</span>, [Page](https://arxiv.org/abs/2211.10904), [PDF](https://arxiv.org/pdf/2211.10904), [Media](https://mp.weixin.qq.com/s/qDw3W282gDk-9nw7rkWphQ)
+- <span class='paper-badge'>AAAI 2023</span> **Temporal Knowledge Graph Reasoning with Historical Contrastive Learning**
+*<u>Yi Xu</u>, Junjie Ou, Hui Xu, and Luoyi Fu*
+*AAAI*, 2023, <span style="color:red">(Oral)</span>, [Page](https://arxiv.org/abs/2211.10904), [PDF](https://arxiv.org/pdf/2211.10904), [Media](https://mp.weixin.qq.com/s/qDw3W282gDk-9nw7rkWphQ)
 
-- <span class='paper-badge'>arXiv 2022</span> **INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**, *<u>Yi Xu</u>, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang*, in *arXiv (preprint)*, 2022, [Page](https://arxiv.org/abs/2209.10754), [PDF](https://arxiv.org/pdf/2209.10754)
+- <span class='paper-badge'>arXiv 2022</span> **INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**
+*<u>Yi Xu</u>, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang*
+*arXiv (preprint)*, 2022, [Page](https://arxiv.org/abs/2209.10754), [PDF](https://arxiv.org/pdf/2209.10754)
 
-- <span class='paper-badge'>TCYB 2021</span> **A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection**, *Fan Cheng, Feixiang Chu, <u>Yi Xu</u>, and Lei Zhang*, in *IEEE Transactions on Cybernetics*, 2021, [Page](https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
+- <span class='paper-badge'>TCYB 2021</span> **A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection**, 
+*Fan Cheng, Feixiang Chu, <u>Yi Xu</u>, and Lei Zhang*
+*IEEE Transactions on Cybernetics*, 2021, [Page](https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
 
-- <span class='paper-badge'>ICIC 2019</span> **A Diversity based Competitive Multi-objective PSO for Feature Selection**, *Jianfeng Qiu, Fan Cheng, Lei Zhang, and <u>Yi Xu (Corresponding Author)</u>*, in *Intelligent Computing Theories and Application*, 2019, <span style="color:red">(Oral)</span> [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
+- <span class='paper-badge'>ICIC 2019</span> **A Diversity based Competitive Multi-objective PSO for Feature Selection**
+*Jianfeng Qiu, Fan Cheng, Lei Zhang, and <u>Yi Xu (Corresponding Author)</u>*
+*Intelligent Computing Theories and Application*, 2019, <span style="color:red">(Oral)</span> [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
 
 
 <span style="color:grey; padding-left:5px;">One paper submitted to CCF-A conference is under review.</span>
