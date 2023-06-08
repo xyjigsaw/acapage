@@ -46,14 +46,18 @@
     font-size: .6875em; 
     padding: 3px; 
     border-radius:5px;
+    .a {
+        text-decoration: none;
+    }
 }
 
 .paper-asset {
     font-size: .6875em; 
-    padding: 5px 0.4rem; 
+    padding: 2px 0.2rem;
     border-radius:5px;
     color: #1565c0;
     border-color: #1565c0;
+    border-style: inset;
 }
 
 .paper-box {
