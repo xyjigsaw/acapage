@@ -40,27 +40,32 @@ My research interest includes neural machine translation and computer vision. I 
 
 - <span class='paper-badge'>ACL 2023</span> **Exploring and Verbalizing Academic Ideas by Concept Co-occurrence**<br>
 *<u>Yi Xu</u>, Shuqian Sheng, Bo Xue, Luoyi Fu, Xinbing Wang and Chenghu Zhou*<br>
-In: *Annual Meeting of the Association for Computational Linguistics*, 2023, main conference, long paper
+In: *Annual Meeting of the Association for Computational Linguistics*, 2023 (CCF-A, main conference, long paper)<br>
+[Page](https://arxiv.org/abs/2306.02282), [PDF](https://arxiv.org/pdf/2306.02282)
 
 - <span class='paper-badge'>ACL 2023</span> **Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Language Model**<br>
 *<u>Yi Xu</u>, Shuqian Sheng, Jiexing Qi, Luoyi Fu, Zhouhan Lin, Xinbing Wang and Chenghu Zhou*<br>
-In: *Annual Meeting of the Association for Computational Linguistics*, 2023, main conference, long paper
+In: *Annual Meeting of the Association for Computational Linguistics*, 2023 (CCF-A, main conference, long paper)
 
 - <span class='paper-badge'>AAAI 2023</span> **Temporal Knowledge Graph Reasoning with Historical Contrastive Learning**<br>
 *<u>Yi Xu</u>, Junjie Ou, Hui Xu, and Luoyi Fu*<br>
-In: *AAAI Conference on Artificial Intelligence*, 2023, <span style="color:red">Oral</span>, [Page](https://arxiv.org/abs/2211.10904), [PDF](https://arxiv.org/pdf/2211.10904), [Media](https://mp.weixin.qq.com/s/qDw3W282gDk-9nw7rkWphQ)
+In: *AAAI Conference on Artificial Intelligence*, 2023 (CCF-A, <span style="color:red">Oral</span>)<br>
+[Page](https://arxiv.org/abs/2211.10904), [PDF](https://arxiv.org/pdf/2211.10904), [Media](https://mp.weixin.qq.com/s/qDw3W282gDk-9nw7rkWphQ)
 
 - <span class='paper-badge'>arXiv 2022</span> **INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**<br>
 *<u>Yi Xu</u>, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang*<br>
-In: *arXiv (preprint)*, 2022, [Page](https://arxiv.org/abs/2209.10754), [PDF](https://arxiv.org/pdf/2209.10754)
+In: *arXiv (preprint)*, 2022<br>
+[Page](https://arxiv.org/abs/2209.10754), [PDF](https://arxiv.org/pdf/2209.10754)
 
 - <span class='paper-badge'>TCYB 2021</span> **A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection**<br>
 *Fan Cheng, Feixiang Chu, <u>Yi Xu</u>, and Lei Zhang*<br>
-In: *IEEE Transactions on Cybernetics*, 2021, [Page](https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
+In: *IEEE Transactions on Cybernetics*, 2021 (SCI-Q1, IF:19.118, CCF-B)<br>
+[Page](https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view)
 
 - <span class='paper-badge'>ICIC 2019</span> **A Diversity based Competitive Multi-objective PSO for Feature Selection**<br>
 *Jianfeng Qiu, Fan Cheng, Lei Zhang, and <u>Yi Xu (Corresponding Author)</u>*<br>
-In: *International Conference on Intelligent Computing*, 2019, <span style="color:red">Oral</span>, corresponding author [Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
+In: *International Conference on Intelligent Computing*, 2019 (CCF-C, <span style="color:red">Oral</span>, corresponding author)<br>
+[Page](https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3)
 
 
 <span style="color:grey; padding-left:5px;">Two papers submitted to CCF-A conference are under review.</span>
