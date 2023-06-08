@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <span class='paper-badge'>ACL 2023</span> **Exploring and Verbalizing Academic Ideas by Concept Co-occurrence**<br>
 *<u>Yi Xu</u>, Shuqian Sheng, Bo Xue, Luoyi Fu, Xinbing Wang and Chenghu Zhou*<br>
 In: *Annual Meeting of the Association for Computational Linguistics*, 2023 (CCF-A, main conference, long paper)<br>
-[Page](https://arxiv.org/abs/2306.02282), [PDF](https://arxiv.org/pdf/2306.02282)
+<span class='paper-asset'><a href="https://arxiv.org/abs/2306.02282">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2306.02282">PDF</a></span>
 
 - <span class='paper-badge'>ACL 2023</span> **Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Language Model**<br>
 *<u>Yi Xu</u>, Shuqian Sheng, Jiexing Qi, Luoyi Fu, Zhouhan Lin, Xinbing Wang and Chenghu Zhou*<br>
