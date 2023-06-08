@@ -41,14 +41,11 @@
 @import "print";
 
 .paper-badge {
-    background-color:#03228d; 
+    background-color:#1565c0; 
     color: white; 
-    font-size: .6875em; 
-    padding: 3px; 
+    font-size: .85em; 
+    padding: 2px 0.3rem;
     border-radius:5px;
-    .a {
-        text-decoration: none;
-    }
 }
 
 .paper-asset {
@@ -57,7 +54,10 @@
     border-radius:5px;
     color: #1565c0;
     border-color: #1565c0;
-    border-style: inset;
+    border-style: solid;
+    .a {
+        text-decoration: none;
+    }
 }
 
 .paper-box {

@@ -67,7 +67,7 @@ In: *IEEE Transactions on Cybernetics*, 2021 (SCI-Q1, IF:19.118, CCF-B)<br>
 In: *International Conference on Intelligent Computing*, 2019 (CCF-C, <span style="color:red">Oral</span>, corresponding author)<br>
 <span class='paper-asset'><a href="https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3">Page</a></span>
 
-<span style="color:grey; padding-left:5px;">Two papers submitted to CCF-A conference are under review.</span>
+<span style="color:grey; padding-left:5px;">Two papers submitted to CCF-A conference/Journal are under review.</span>
 
 
 
