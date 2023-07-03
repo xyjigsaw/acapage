@@ -30,6 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2023.07.01*: &nbsp; The public beta version of DeepReport 🤖 has been released. 
 - *2023.05.02*: &nbsp; 🎉 Two long papers are accepted by ACL 2023 main conference. 
 - *2023.04.27*: &nbsp; I am invited to give a talk💬 for a [temporal graph (TG) reading group](https://www.cs.mcgill.ca/~shuang43/rg.html) held by McGill University, Mila, NEC Laboratories Europe and University of Mannheim.
 - *2022.11.19*: &nbsp; 🎉 A paper is accepted by AAAI 2023.
@@ -67,7 +68,7 @@ In: *IEEE Transactions on Cybernetics*, 2021 (SCI-Q1, IF:19.118, CCF-B)<br>
 In: *International Conference on Intelligent Computing*, 2019 (CCF-C, <span style="color:red">Oral</span>)<br>
 <span class='paper-asset'><a href="https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3">Page</a></span>
 
-<span style="color:grey; padding-left:5px;">Two papers submitted to CCF-A conference/Journal are under review.</span>
+<span style="color:grey; padding-left:5px;">Two papers submitted to CCF-A conference/Journal are under review now.</span>
 
 
 
@@ -78,7 +79,7 @@ In: *International Conference on Intelligent Computing*, 2019 (CCF-C, <span styl
 
 ### [DeepReport Beta](https://idea.acemap.cn/)
 
-Supported by the [Deep-time Digital Earth (DDE) International Big Science Program](https://www.ddeworld.org/), we construct DeepReport to inspire researchers for knowledge discovery. DeepReport provides paper retrieval, insights extraction, concept exploration, knowledge summarization and generation.
+Supported by the [Deep-time Digital Earth (DDE) International Big Science Program](https://www.ddeworld.org/), we develop DeepReport to inspire researchers for knowledge discovery. DeepReport provides functions such as paper retrieval, insights extraction, concept exploration, knowledge summarization and generation.
 </div>
 </div>
 
@@ -116,7 +117,7 @@ Supported by the [Deep-time Digital Earth (DDE) International Big Science Progra
 - China Communications
 
 ### External Reviewer
-- 2023: ACL, SIGMETRICS
+- 2023: ACL, EMNLP, SIGMETRICS
 - 2022: AAAI, SIGMETRICS
 
 
