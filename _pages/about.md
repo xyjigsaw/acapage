@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2023.07.01*: &nbsp; The public beta version of DeepReport 🤖 has been released. 
+- *2023.07.01*: &nbsp; The public beta version of 🤖[DeepReport]((https://idea.acemap.cn/)) has been released. 
 - *2023.05.02*: &nbsp; 🎉 Two long papers are accepted by ACL 2023 main conference. 
 - *2023.04.27*: &nbsp; I am invited to give a talk💬 for a [temporal graph (TG) reading group](https://www.cs.mcgill.ca/~shuang43/rg.html) held by McGill University, Mila, NEC Laboratories Europe and University of Mannheim.
 - *2022.11.19*: &nbsp; 🎉 A paper is accepted by AAAI 2023.
@@ -116,7 +116,7 @@ Supported by the [Deep-time Digital Earth (DDE) International Big Science Progra
 - IEEE Transactions on Network Science and Engineering
 - China Communications
 
-### External Reviewer
+### Conference Reviewer
 - 2023: ACL, EMNLP, SIGMETRICS
 - 2022: AAAI, SIGMETRICS
 
