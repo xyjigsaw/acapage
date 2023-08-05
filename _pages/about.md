@@ -46,7 +46,7 @@ In: *Annual Meeting of the Association for Computational Linguistics*, 2023 (CCF
 
 - <span class='paper-badge'>ACL 2023</span> **Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Language Model**<br>
 *<u>Yi Xu</u>, Shuqian Sheng, Jiexing Qi, Luoyi Fu, Zhouhan Lin, Xinbing Wang and Chenghu Zhou*<br>
-In: *Annual Meeting of the Association for Computational Linguistics*, 2023 (CCF-A, main conference, long paper)
+In: *Annual Meeting of the Association for Computational Linguistics*, 2023 (CCF-A, main conference, long paper)<br>
 <span class='paper-asset'><a href="https://aclanthology.org/2023.acl-long.281/">Page</a></span> <span class='paper-asset'><a href="https://aclanthology.org/2023.acl-long.281.pdf">PDF</a></span>
 
 - <span class='paper-badge'>AAAI 2023</span> **Temporal Knowledge Graph Reasoning with Historical Contrastive Learning**<br>
