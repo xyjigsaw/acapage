@@ -123,6 +123,7 @@ Supported by the [Deep-time Digital Earth (DDE) International Big Science Progra
 
 
 # 📚 Teaching
+- Teaching Assistant,  Introduction to Engineering for Electronic Information, Shanghai Jiao Tong University (Fall 2023)
 - Teaching Assistant, Data Structure and Algorithm (IEEE Class), Shanghai Jiao Tong University (Fall 2022)
 - Teaching Assistant, Mobile Internet, Shanghai Jiao Tong University (Spring 2022)
 - Teaching Assistant, Data Structure and Algorithm, Shanghai Jiao Tong University (Fall 2021)
