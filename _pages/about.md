@@ -38,6 +38,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+- <span class='paper-badge'>WSDM 2024</span> **Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization**<br>
+*Cheng Deng, Tianhang Zhang, Zhongmou He, <u>Yi Xu</u>, Qiyuan Chen, Yuanyuan Shi, Luoyi Fu, Weinan Zhang, Xinbing Wang, Chenghu Zhou, Zhouhan Lin and Junxian He*<br>
+In: *ACM International Conference on Web Search and Data Mining*, 2024 (CCF-B)<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2306.05064">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2306.05064.pdf">PDF</a></span>
 
 - <span class='paper-badge'>ACL 2023</span> **Exploring and Verbalizing Academic Ideas by Concept Co-occurrence**<br>
 *<u>Yi Xu</u>, Shuqian Sheng, Bo Xue, Luoyi Fu, Xinbing Wang and Chenghu Zhou*<br>
