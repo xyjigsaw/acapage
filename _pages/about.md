@@ -30,46 +30,51 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2023.07.01*: &nbsp; The public beta version of 🤖[DeepReport](https://idea.acemap.cn/) has been released. 
-- *2023.05.02*: &nbsp; 🎉 Two long papers are accepted by ACL 2023 main conference. 
-- *2023.04.27*: &nbsp; I am invited to give a talk💬 for a [temporal graph (TG) reading group](https://www.cs.mcgill.ca/~shuang43/rg.html) held by McGill University, Mila, NEC Laboratories Europe and University of Mannheim.
-- *2022.11.19*: &nbsp; 🎉 A paper is accepted by AAAI 2023.
+- *2023.07.01* &nbsp; The public beta version of 🤖[DeepReport](https://idea.acemap.cn/) has been released. 
+- *2023.05.02* &nbsp; 🎉 Two long papers are accepted by ACL 2023 main conference. 
+- *2023.04.27* &nbsp; I am invited to give a talk💬 for a [temporal graph (TG) reading group](https://www.cs.mcgill.ca/~shuang43/rg.html) held by McGill University, Mila, NEC Laboratories Europe and University of Mannheim.
+- *2022.11.19* &nbsp; 🎉 A paper is accepted by AAAI 2023.
 
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - <span class='paper-badge'>WSDM 2024</span> **Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization**<br>
-*Cheng Deng, Tianhang Zhang, Zhongmou He, <u>Yi Xu</u>, Qiyuan Chen, Yuanyuan Shi, Luoyi Fu, Weinan Zhang, Xinbing Wang, Chenghu Zhou, Zhouhan Lin and Junxian He*<br>
+*Cheng Deng, Tianhang Zhang, Zhongmou He, <u><b>Yi Xu</b></u>, Qiyuan Chen, Yuanyuan Shi, Luoyi Fu, Weinan Zhang, Xinbing Wang, Chenghu Zhou, Zhouhan Lin and Junxian He*<br>
 In: *ACM International Conference on Web Search and Data Mining*, 2024 (CCF-B)<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2306.05064">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2306.05064.pdf">PDF</a></span>
 
 - <span class='paper-badge'>ACL 2023</span> **Exploring and Verbalizing Academic Ideas by Concept Co-occurrence**<br>
-*<u>Yi Xu</u>, Shuqian Sheng, Bo Xue, Luoyi Fu, Xinbing Wang and Chenghu Zhou*<br>
+*<u><b>Yi Xu</b></u>, Shuqian Sheng, Bo Xue, Luoyi Fu, Xinbing Wang and Chenghu Zhou*<br>
 In: *Annual Meeting of the Association for Computational Linguistics*, 2023 (CCF-A, main conference, long paper)<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2306.02282">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2306.02282">PDF</a></span> <span class='paper-asset'><a href="https://github.com/xyjigsaw/Kiscovery">Code</a></span>
 
 - <span class='paper-badge'>ACL 2023</span> **Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Language Model**<br>
-*<u>Yi Xu</u>, Shuqian Sheng, Jiexing Qi, Luoyi Fu, Zhouhan Lin, Xinbing Wang and Chenghu Zhou*<br>
+*<u><b>Yi Xu</b></u>, Shuqian Sheng, Jiexing Qi, Luoyi Fu, Zhouhan Lin, Xinbing Wang and Chenghu Zhou*<br>
 In: *Annual Meeting of the Association for Computational Linguistics*, 2023 (CCF-A, main conference, long paper)<br>
 <span class='paper-asset'><a href="https://aclanthology.org/2023.acl-long.281/">Page</a></span> <span class='paper-asset'><a href="https://aclanthology.org/2023.acl-long.281.pdf">PDF</a></span>
 
 - <span class='paper-badge'>AAAI 2023</span> **Temporal Knowledge Graph Reasoning with Historical Contrastive Learning**<br>
-*<u>Yi Xu</u>, Junjie Ou, Hui Xu, and Luoyi Fu*<br>
+*<u><b>Yi Xu</b></u>, Junjie Ou, Hui Xu, and Luoyi Fu*<br>
 In: *AAAI Conference on Artificial Intelligence*, 2023 (CCF-A, <span style="color:red">Oral</span>)<br>
-<span class='paper-asset'><a href="https://arxiv.org/abs/2211.10904">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2211.10904">PDF</a></span> <span class='paper-asset'><a href="https://mp.weixin.qq.com/s/qDw3W282gDk-9nw7rkWphQ">Media</a></span> <span class='paper-asset'><a href="https://github.com/xyjigsaw/CENET">Code</a></span>
+<span class='paper-asset'><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25601">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2211.10904">PDF</a></span> <span class='paper-asset'><a href="https://mp.weixin.qq.com/s/qDw3W282gDk-9nw7rkWphQ">Media</a></span> <span class='paper-asset'><a href="https://github.com/xyjigsaw/CENET">Code</a></span>
 
-- <span class='paper-badge'>arXiv 2022</span> **INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**<br>
-*<u>Yi Xu</u>, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang*<br>
+- <span class='paper-prebadge'>arXiv 2023</span> **Exploring the Limits of Historical Information for Temporal Knowledge Graph Extrapolation**<br>
+*<u><b>Yi Xu</b></u>, Junjie Ou, Hui Xu, Luoyi Fu, Lei Zhou, Xinbing Wang and Chenghu Zhou*<br>
+In: *arXiv (preprint)*, 2023<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2308.15002">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2308.15002.pdf">PDF</a></span> <span class='paper-asset'><a href="https://mp.weixin.qq.com/s/qDw3W282gDk-9nw7rkWphQ">Media</a></span> <span class='paper-asset'><a href="https://github.com/xyjigsaw/CENET">Code</a></span>
+
+- <span class='paper-prebadge'>arXiv 2022</span> **INFINITY: A Simple Yet Effective Unsupervised Framework for Graph-Text Mutual Conversion**<br>
+*<u><b>Yi Xu</b></u>, Luoyi Fu, Zhouhan Lin, Jiexing Qi, and Xinbing Wang*<br>
 In: *arXiv (preprint)*, 2022<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2209.10754">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2209.10754">PDF</a></span>
 
 - <span class='paper-badge'>TCYB 2021</span> **A Steering-matrix-based Multi-objective Evolutionary Algorithm for High-Dimensional Feature Selection**<br>
-*Fan Cheng, Feixiang Chu, <u>Yi Xu</u>, and Lei Zhang*<br>
+*Fan Cheng, Feixiang Chu, <u><b>Yi Xu</b></u>, and Lei Zhang*<br>
 In: *IEEE Transactions on Cybernetics*, 2021 (SCI-Q1, IF:19.118, CCF-B)<br>
 <span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/9371430/), [PDF](https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view">Page</a></span> <span class='paper-asset'><a href="https://drive.google.com/file/u/0/d/13xAz8dMIsU9TUfdeiP0JMCpvzxwzviwL/view">PDF</a></span> <span class='paper-asset'><a href="https://github.com/BIMK/SM-MOEA">Code</a></span>
 
 - <span class='paper-badge'>ICIC 2019</span> **A Diversity based Competitive Multi-objective PSO for Feature Selection**<br>
-*Jianfeng Qiu, Fan Cheng, Lei Zhang, and <u>Yi Xu (Corresponding Author)</u>*<br>
+*Jianfeng Qiu, Fan Cheng, Lei Zhang, and <u><b>Yi Xu</b> (Corresponding Author)</u>*<br>
 In: *International Conference on Intelligent Computing*, 2019 (CCF-C, <span style="color:red">Oral</span>)<br>
 <span class='paper-asset'><a href="https://link.springer.com/chapter/10.1007/978-3-030-26969-2_3">Page</a></span>
 
