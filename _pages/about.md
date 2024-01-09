@@ -38,6 +38,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+- <span class='paper-prebadge'>arXiv 2024</span> **GeoGalactica: A Scientific Large Language Model in Geoscience**<br>
+*Zhouhan Lin, Cheng Deng, Le Zhou, Tianhang Zhang, <u><b>Yi Xu</b></u>, Yutong Xu, Zhongmou He, Yuanyuan Shi, Beiya Dai, Yunchong Song, Boyi Zeng, Qiyuan Chen, Tao Shi, Tianyu Huang, Yiwei Xu, Shu Wang, Luoyi Fu, Weinan Zhang, Junxian He, Chao Ma, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou*<br>
+In: *arXiv (preprint)*, 2024<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2401.00434">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2401.00434">PDF</a></span>
+
 - <span class='paper-badge'>WSDM 2024</span> **Learning A Foundation Language Model for Geoscience Knowledge Understanding and Utilization**<br>
 *Cheng Deng, Tianhang Zhang, Zhongmou He, <u><b>Yi Xu</b></u>, Qiyuan Chen, Yuanyuan Shi, Luoyi Fu, Weinan Zhang, Xinbing Wang, Chenghu Zhou, Zhouhan Lin and Junxian He*<br>
 In: *ACM International Conference on Web Search and Data Mining*, 2024 (CCF-B)<br>
@@ -127,6 +132,7 @@ Supported by the [Deep-time Digital Earth (DDE) International Big Science Progra
 - China Communications
 
 ### Conference Reviewer
+- 2024: ACL-ARR
 - 2023: ACL, EMNLP, SIGMETRICS
 - 2022: AAAI, SIGMETRICS
 
