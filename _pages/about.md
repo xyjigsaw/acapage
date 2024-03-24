@@ -43,6 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <span class='paper-badge'>NAACL 2024</span> **Is Reference Necessary in the Evaluation of NLG Systems? When and Where?**<br>
 *Shuqian Sheng, <u><b>Yi Xu</b></u>, Luoyi Fu, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou*<br>
 In: *The North American Chapter of the Association for Computational Linguistics*, 2024 (CCF-B, main conference, long paper)<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2403.14275">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2403.14275">PDF</a></span>
 
 - <span class='paper-prebadge'>arXiv 2024</span> **GeoGalactica: A Scientific Large Language Model in Geoscience**<br>
 *Zhouhan Lin, Cheng Deng, Le Zhou, Tianhang Zhang, <u><b>Yi Xu</b></u>, Yutong Xu, Zhongmou He, Yuanyuan Shi, Beiya Dai, Yunchong Song, Boyi Zeng, Qiyuan Chen, Tao Shi, Tianyu Huang, Yiwei Xu, Shu Wang, Luoyi Fu, Weinan Zhang, Junxian He, Chao Ma, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou*<br>
