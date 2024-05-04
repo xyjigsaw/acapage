@@ -40,6 +40,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+- <span class='paper-prebadge'>arXiv 2024</span> **RepEval: Effective Text Evaluation with LLM Representation**<br>
+*Shuqian Sheng, <u><b>Yi Xu</b></u>, Tianhang Zhang, Zanwei Shen, Luoyi Fu, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou*<br>
+In: *arXiv (preprint)*, 2024<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2404.19563">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2404.19563">PDF</a></span>
+
 - <span class='paper-badge'>NAACL 2024</span> **Is Reference Necessary in the Evaluation of NLG Systems? When and Where?**<br>
 *Shuqian Sheng, <u><b>Yi Xu</b></u>, Luoyi Fu, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou*<br>
 In: *The North American Chapter of the Association for Computational Linguistics*, 2024 (CCF-B, main conference, long paper)<br>
