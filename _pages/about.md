@@ -30,6 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2024.06.17* &nbsp; Invited 💬 talk at "AI-Based Future IoT Technologies and Services 2024 Workshop" in Jeju, Korea.
 - *2024.03.13* &nbsp; 🎉 A long paper is accepted by NAACL 2024 main conference.
 - *2023.12.31* &nbsp; GeoGalactica, a 30b LLM for GeoScience 🌏 has been released.
 - *2023.07.01* &nbsp; The public beta version of 🤖[DeepReport](https://idea.acemap.cn/) has been released. 
