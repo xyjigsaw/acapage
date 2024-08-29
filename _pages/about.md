@@ -35,11 +35,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.12.31* &nbsp; GeoGalactica, a 30b LLM for GeoScience 🌏 has been released.
 - *2023.07.01* &nbsp; The public beta version of 🤖[DeepReport](https://idea.acemap.cn/) has been released. 
 - *2023.05.02* &nbsp; 🎉 Two long papers are accepted by ACL 2023 main conference. 
-- *2023.04.27* &nbsp; I am invited to give a talk💬 for a [temporal graph (TG) reading group](https://www.cs.mcgill.ca/~shuang43/rg.html) held by McGill University, Mila, NEC Laboratories Europe and University of Mannheim.
-- *2022.11.19* &nbsp; 🎉 A paper is accepted by AAAI 2023.
+- *2023.04.27* &nbsp; I am invited to give a 💬 talk for a [temporal graph (TG) reading group](https://www.cs.mcgill.ca/~shuang43/rg.html) held by McGill University, Mila, NEC Laboratories Europe and University of Mannheim.
 
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+- <span class='paper-prebadge'>arXiv 2024</span> **Unlock the Power of Frozen LLMs in Knowledge Graph Completion**<br>
+*Bo Xue, <u><b>Yi Xu</b></u>, Yunchong Song, Yiming Pang, Yuyang Ren, Jiaxin Ding, Luoyi Fu, Xinbing Wang*<br>
+In: *arXiv (preprint)*, 2024<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2408.06787">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2408.06787">PDF</a></span>
 
 - <span class='paper-prebadge'>arXiv 2024</span> **RepEval: Effective Text Evaluation with LLM Representation**<br>
 *Shuqian Sheng, <u><b>Yi Xu</b></u>, Tianhang Zhang, Zanwei Shen, Luoyi Fu, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou*<br>
@@ -145,7 +149,7 @@ Supported by the [Deep-time Digital Earth (DDE) International Big Science Progra
 - China Communications
 
 ### Conference Reviewer
-- 2024: ACL-ARR
+- 2024: ACL-ARR (ACL, EMNLP)
 - 2023: ACL, EMNLP, SIGMETRICS
 - 2022: AAAI, SIGMETRICS
 
