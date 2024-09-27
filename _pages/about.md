@@ -40,15 +40,25 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+- <span class='paper-badge'>EMNLP 2024</span> **RepEval: Effective Text Evaluation with LLM Representation**<br>
+*Shuqian Sheng, <u><b>Yi Xu</b></u>, Tianhang Zhang, Zanwei Shen, Luoyi Fu, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou*<br>
+In: *Conference on Empirical Methods in Natural Language Processing*, 2024 (CCF-B, main conference, long paper)<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2404.19563">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2404.19563">PDF</a></span>
+
+- <span class='paper-prebadge'>arXiv 2024</span> **Good Idea or Not, Representation of LLM Could Tell**<br>
+*<u><b>Yi Xu</b></u>, Bo Xue, Shuqian Sheng, Cheng Deng, Jiaxin Ding, Zanwei Shen, Luoyi Fu, Xinbing Wang, Chenghu Zhou*<br>
+In: *arXiv (preprint)*, 2024<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2409.13712">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2409.13712">PDF</a></span>
+
+- <span class='paper-badge'>NeurIPS 2024</span> **Human-Readable Fingerprint for Large Language Models**<br>
+*Boyi Zeng, Lizheng Wang, Yuncong Hu, <u><b>Yi Xu</b></u>, Chenghu Zhou, Xinbing Wang, Yu Yu, Zhouhan Lin*<br>
+In: *Conference on Neural Information Processing Systems*, 2024 (CCF-A)<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2312.04828">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2312.04828">PDF</a></span>
+
 - <span class='paper-prebadge'>arXiv 2024</span> **Unlock the Power of Frozen LLMs in Knowledge Graph Completion**<br>
 *Bo Xue, <u><b>Yi Xu</b></u>, Yunchong Song, Yiming Pang, Yuyang Ren, Jiaxin Ding, Luoyi Fu, Xinbing Wang*<br>
 In: *arXiv (preprint)*, 2024<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2408.06787">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2408.06787">PDF</a></span>
-
-- <span class='paper-prebadge'>arXiv 2024</span> **RepEval: Effective Text Evaluation with LLM Representation**<br>
-*Shuqian Sheng, <u><b>Yi Xu</b></u>, Tianhang Zhang, Zanwei Shen, Luoyi Fu, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou*<br>
-In: *arXiv (preprint)*, 2024<br>
-<span class='paper-asset'><a href="https://arxiv.org/abs/2404.19563">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2404.19563">PDF</a></span>
 
 - <span class='paper-badge'>NAACL 2024</span> **Is Reference Necessary in the Evaluation of NLG Systems? When and Where?**<br>
 *Shuqian Sheng, <u><b>Yi Xu</b></u>, Luoyi Fu, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou*<br>
