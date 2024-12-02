@@ -122,7 +122,7 @@ In: *International Conference on Intelligent Computing*, 2019 (CCF-C, <span styl
 
 # 🚀 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BETA</div><img src='images/deepreport.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/deepreport.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### [DeepReport](https://idea.acemap.cn/)
@@ -132,7 +132,7 @@ Supported by the [Deep-time Digital Earth (DDE) International Big Science Progra
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Official</div><img src='images/acemap.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/acemap.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### [Acemap](https://new.acemap.info/)
@@ -176,7 +176,7 @@ Acemap, containing 260 million papers and 101 million scholars, is a mapmatic ac
 - Geo-spatial Information Science
 
 ### Conference Reviewer
-- 2024: ACL-ARR (ACL, EMNLP)
+- 2024: ACL-ARR (ACL, NAACL, EMNLP)
 - 2023: ACL, EMNLP, SIGMETRICS
 - 2022: AAAI, SIGMETRICS
 
