@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - <span class='paper-badge'>SANER 2025</span> **Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**<br>
-*Dahan Pan, <u><b>Yi Xu</b></u> <span style=”color:red“>(equal contribution)</span>, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang*<br>
+*Dahan Pan, <u><b>Yi Xu</b></u> <span style="color:red">(equal contribution)</span>, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang*<br>
 In: *The IEEE International Conference on Software Analysis, Evolution and Reengineering*, 2025 (CCF-B)<br>
 
 - <span class='paper-badge'>EMNLP 2024</span> **RepEval: Effective Text Evaluation with LLM Representation**<br>
@@ -127,7 +127,17 @@ In: *International Conference on Intelligent Computing*, 2019 (CCF-C, <span styl
 
 ### [DeepReport](https://idea.acemap.cn/)
 
-Supported by the [Deep-time Digital Earth (DDE) International Big Science Program](https://www.ddeworld.org/), we develop DeepReport to inspire researchers for knowledge discovery. DeepReport provides functions such as paper retrieval, insights extraction, concept exploration, knowledge summarization and generation.
+Supported by the [Deep-time Digital Earth (DDE) International Big Science Program](https://www.ddeworld.org/), I develop DeepReport to inspire researchers for knowledge discovery. DeepReport provides functions such as paper retrieval, insights extraction, concept exploration, knowledge summarization and generation.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Official</div><img src='images/acemap.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### [Acemap](https://new.acemap.info/)
+
+Acemap, containing 260 million papers and 101 million scholars, is a mapmatic academic system that fully discovered the connection and its evolving feature among researchers, papers, and topics in scholarly data. 
 </div>
 </div>
 
@@ -163,6 +173,7 @@ Supported by the [Deep-time Digital Earth (DDE) International Big Science Progra
 ### [Journal Reviewer](https://www.webofscience.com/wos/author/record/HJG-4521-2022)
 - IEEE Transactions on Network Science and Engineering
 - China Communications
+- Geo-spatial Information Science
 
 ### Conference Reviewer
 - 2024: ACL-ARR (ACL, EMNLP)
