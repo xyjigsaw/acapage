@@ -30,6 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2024.12.01* &nbsp; 🎉 One paper got accepted at SANER 2025!
 - *2024.09.27* &nbsp; 🎉 One paper got accepted at EMNLP 2024, one paper got accepted at NeurIPS 2024!
 - *2024.06.17* &nbsp; Invited 💬 talk at "AI-Based Future IoT Technologies and Services 2024 Workshop" in Jeju, Korea.
 - *2024.03.13* &nbsp; 🎉 A long paper is accepted by NAACL 2024 main conference.
@@ -40,6 +41,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+- <span class='paper-badge'>SANER 2025</span> **Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**<br>
+*Dahan Pan, <u><b>Yi Xu (equal contribution)</b></u>, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang*<br>
+In: *The IEEE International Conference on Software Analysis, Evolution and Reengineering*, 2025 (CCF-B)<br>
 
 - <span class='paper-badge'>EMNLP 2024</span> **RepEval: Effective Text Evaluation with LLM Representation**<br>
 *Shuqian Sheng, <u><b>Yi Xu</b></u>, Tianhang Zhang, Zanwei Shen, Luoyi Fu, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou*<br>
