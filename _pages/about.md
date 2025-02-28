@@ -173,6 +173,7 @@ Acemap, containing 260 million papers and 101 million scholars, is a mapmatic ac
 ### [Journal Reviewer](https://www.webofscience.com/wos/author/record/HJG-4521-2022)
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Network Science and Engineering
+- IEEE Transactions on Computational Social Systems
 - Knowledge and Information Systems
 - China Communications
 - Geo-spatial Information Science
