@@ -49,6 +49,7 @@ In: *ACM International Conference on Research and Development in Information Ret
 - <span class='paper-badge'>SANER 2025</span> **Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**<br>
 *Dahan Pan, <u><b>Yi Xu</b></u> <span style="color:red">(equal contribution)</span>, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang*<br>
 In: *The IEEE International Conference on Software Analysis, Evolution and Reengineering*, 2025 (CCF-B)<br>
+<span class='paper-asset'><a href="https://aoa0.github.io/pubs/saner25.pdf">PDF</a></span>
 
 - <span class='paper-badge'>EMNLP 2024</span> **RepEval: Effective Text Evaluation with LLM Representation**<br>
 *Shuqian Sheng, <u><b>Yi Xu</b></u>, Tianhang Zhang, Zanwei Shen, Luoyi Fu, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou*<br>
