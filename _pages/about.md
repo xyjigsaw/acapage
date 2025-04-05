@@ -30,6 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2025.04.05* &nbsp; 🎉 DeepReport got accepted at SIGIR 2025!
 - *2024.12.01* &nbsp; 🎉 One paper got accepted at SANER 2025!
 - *2024.09.27* &nbsp; 🎉 One paper got accepted at EMNLP 2024, one paper got accepted at NeurIPS 2024!
 - *2024.06.17* &nbsp; Invited 💬 talk at "AI-Based Future IoT Technologies and Services 2024 Workshop" in Jeju, Korea.
@@ -41,6 +42,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+- <span class='paper-badge'>SIGIR 2025</span> **Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**<br>
+*<u><b>Yi Xu</b></u> Luoyi Fu, Shuqian Sheng, Bo Xue, Jiaxin Ding, Lei Zhou, Xinbing Wang and Chenghu Zhou*<br>
+In: *ACM International Conference on Research and Development in Information Retrieval*, 2025 (CCF-A, demo track)<br>
 
 - <span class='paper-badge'>SANER 2025</span> **Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**<br>
 *Dahan Pan, <u><b>Yi Xu</b></u> <span style="color:red">(equal contribution)</span>, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang*<br>
