@@ -30,20 +30,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.04.05* &nbsp; 🎉 DeepReport got accepted at SIGIR 2025!
+- *2025.04.05* &nbsp; 🤖[DeepReport](https://idea.acemap.cn/) got accepted at SIGIR 2025!
 - *2024.12.01* &nbsp; 🎉 One paper got accepted at SANER 2025!
 - *2024.09.27* &nbsp; 🎉 One paper got accepted at EMNLP 2024, one paper got accepted at NeurIPS 2024!
 - *2024.06.17* &nbsp; Invited 💬 talk at "AI-Based Future IoT Technologies and Services 2024 Workshop" in Jeju, Korea.
 - *2024.03.13* &nbsp; 🎉 A long paper is accepted by NAACL 2024 main conference.
 - *2023.12.31* &nbsp; GeoGalactica, a 30b LLM for GeoScience 🌏 has been released.
-- *2023.07.01* &nbsp; The public beta version of 🤖[DeepReport](https://idea.acemap.cn/) has been released. 
 - *2023.05.02* &nbsp; 🎉 Two long papers are accepted by ACL 2023 main conference. 
 - *2023.04.27* &nbsp; I am invited to give a 💬 talk for a [temporal graph (TG) reading group](https://www.cs.mcgill.ca/~shuang43/rg.html) held by McGill University, Mila, NEC Laboratories Europe and University of Mannheim.
 
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-- <span class='paper-badge'>SIGIR 2025</span> **Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**<br>
+- <span class='paper-badge'>SIGIR 2025</span> **DeepReport: An AI-assisted Idea Generation System for Scientific Research**<br>
 *<u><b>Yi Xu</b></u> Luoyi Fu, Shuqian Sheng, Bo Xue, Jiaxin Ding, Lei Zhou, Xinbing Wang and Chenghu Zhou*<br>
 In: *ACM International Conference on Research and Development in Information Retrieval*, 2025 (CCF-A, demo track)<br>
 
