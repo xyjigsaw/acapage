@@ -43,8 +43,9 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 - <span class='paper-badge'>SIGIR 2025</span> **DeepReport: An AI-assisted Idea Generation System for Scientific Research**<br>
-*<u><b>Yi Xu</b></u> Luoyi Fu, Shuqian Sheng, Bo Xue, Jiaxin Ding, Lei Zhou, Xinbing Wang and Chenghu Zhou*<br>
+*<u><b>Yi Xu</b></u>, Luoyi Fu, Shuqian Sheng, Bo Xue, Jiaxin Ding, Lei Zhou, Xinbing Wang and Chenghu Zhou*<br>
 In: *ACM International Conference on Research and Development in Information Retrieval*, 2025 (CCF-A, demo track)<br>
+<span class='paper-asset'><a href="https://idea.acemap.cn/">Demo</a></span>
 
 - <span class='paper-badge'>SANER 2025</span> **Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model**<br>
 *Dahan Pan, <u><b>Yi Xu</b></u> <span style="color:red">(equal contribution)</span>, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang*<br>
