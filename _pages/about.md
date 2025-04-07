@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 In: *ACM International Conference on Research and Development in Information Retrieval*, 2025 (CCF-A, demo track)<br>
 <span class='paper-asset'><a href="https://idea.acemap.cn/">Demo</a></span>
 
-- <span class='paper-badge'>FCS 2025</span> **Rethinking temporal knowledge graph extrapolation: prioritizing historical events over graph**<br>
+- <span class='paper-badge'>FCS 2025</span> **Rethinking Temporal Knowledge Graph Extrapolation: Prioritizing Historical Events over Graph**<br>
 *<u><b>Yi Xu</b></u>, Luoyi Fu, Xinbing Wang*<br>
 In: *Frontiers of Computer Science*, 2025 (CCF-B)<br>
 <span class='paper-asset'><a href="https://link.springer.com/article/10.1007/s11704-025-41334-z">Page</a></span>
