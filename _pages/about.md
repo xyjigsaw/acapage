@@ -146,7 +146,7 @@ Supported by the [Deep-time Digital Earth (DDE) International Big Science Progra
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/acemap.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### [Acemap](https://new.acemap.info/)
+### [Acemap](https://acemap.info/)
 
 Acemap, containing 260 million papers and 101 million scholars, is a mapmatic academic system that fully discovered the connection and its evolving feature among researchers, papers, and topics in scholarly data. 
 </div>
@@ -191,6 +191,7 @@ Acemap, containing 260 million papers and 101 million scholars, is a mapmatic ac
 - Geo-spatial Information Science
 
 ### Conference Reviewer
+- 2025: ACL-ARR
 - 2024: ACL-ARR (ACL, NAACL, EMNLP)
 - 2023: ACL, EMNLP, SIGMETRICS
 - 2022: AAAI, SIGMETRICS
