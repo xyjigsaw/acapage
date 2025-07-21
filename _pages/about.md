@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <span class='paper-badge'>SIGIR 2025</span> **DeepReport: An AI-assisted Idea Generation System for Scientific Research**<br>
 *<u><b>Yi Xu</b></u>, Luoyi Fu, Shuqian Sheng, Bo Xue, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou*<br>
 In: *ACM International Conference on Research and Development in Information Retrieval*, 2025 (CCF-A, demo track)<br>
-<span class='paper-asset'><a href="https://idea.acemap.cn/">Demo</a></span><span class='paper-asset'><a href="https://dl.acm.org/doi/abs/10.1145/3726302.3730151">Page</a></span> <span class='paper-asset'><a href="https://dl.acm.org/doi/pdf/10.1145/3726302.3730151">PDF</a></span>
+<span class='paper-asset'><a href="https://idea.acemap.cn/">Demo</a></span> <span class='paper-asset'><a href="https://dl.acm.org/doi/abs/10.1145/3726302.3730151">Page</a></span> <span class='paper-asset'><a href="https://dl.acm.org/doi/pdf/10.1145/3726302.3730151">PDF</a></span>
 
 - <span class='paper-badge'>FCS 2025</span> **Rethinking Temporal Knowledge Graph Extrapolation: Prioritizing Historical Events over Graph**<br>
 *<u><b>Yi Xu</b></u>, Luoyi Fu, Xinbing Wang*<br>
