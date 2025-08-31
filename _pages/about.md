@@ -49,7 +49,7 @@ In: *ACM International Conference on Research and Development in Information Ret
 
 
 - <span class='paper-prebadge'>arXiv 2025</span> **Structuring GUI Elements through Vision Language Models: Towards Action Space Generation**<br>
-*<u><b>Yi Xu</b></u>Yi Xu, Yesheng Zhang, Jiajia Liu, Jingdong Chen*<br>
+*<u><b>Yi Xu</b></u>, Yesheng Zhang, Jiajia Liu, Jingdong Chen*<br>
 In: *arXiv (preprint)*, 2025<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2508.16271">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2508.16271">PDF</a></span>
 
