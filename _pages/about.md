@@ -47,6 +47,13 @@ My research interest includes neural machine translation and computer vision. I 
 In: *ACM International Conference on Research and Development in Information Retrieval*, 2025 (CCF-A, demo track)<br>
 <span class='paper-asset'><a href="https://idea.acemap.cn/">Demo</a></span> <span class='paper-asset'><a href="https://dl.acm.org/doi/abs/10.1145/3726302.3730151">Page</a></span> <span class='paper-asset'><a href="https://dl.acm.org/doi/pdf/10.1145/3726302.3730151">PDF</a></span>
 
+
+- <span class='paper-prebadge'>arXiv 2025</span> **Structuring GUI Elements through Vision Language Models: Towards Action Space Generation**<br>
+*<u><b>Yi Xu</b></u>Yi Xu, Yesheng Zhang, Jiajia Liu, Jingdong Chen*<br>
+In: *arXiv (preprint)*, 2025<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2508.16271">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2508.16271">PDF</a></span>
+
+
 - <span class='paper-badge'>FCS 2025</span> **Rethinking Temporal Knowledge Graph Extrapolation: Prioritizing Historical Events over Graph**<br>
 *<u><b>Yi Xu</b></u>, Luoyi Fu, Xinbing Wang*<br>
 In: *Frontiers of Computer Science*, 2025 (CCF-B)<br>
@@ -191,7 +198,7 @@ Acemap, containing 260 million papers and 101 million scholars, is a mapmatic ac
 - Geo-spatial Information Science
 
 ### Conference Reviewer
-- 2025: ACL-ARR
+- 2025: ACL-ARR, AAAI
 - 2024: ACL-ARR (ACL, NAACL, EMNLP)
 - 2023: ACL, EMNLP, SIGMETRICS
 - 2022: AAAI, SIGMETRICS
