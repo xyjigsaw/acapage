@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm pursuing my doctoral degree in Computer Science in <a href="https://www.acemap.info/"><img src='./images/acemap_logo.png' style='width: 4em; border-radius: 5px;'></a>, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html) and [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/).
+I obtained my Ph.D. in Computer Science in <a href="https://www.acemap.info/"><img src='./images/acemap_logo.png' style='width: 4em; border-radius: 5px;'></a>, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html) and [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/).
 
 My research interests include **natural language processing**, **knowledge graphs** and **data mining**. Specifically, I am devoted to research of large language models and temporal knowledge graph.
 
@@ -30,6 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2025.05.20* &nbsp; I obtained my Ph.D. in Computer Science from Shanghai Jiao Tong University.
 - *2025.04.05* &nbsp; 🤖[DeepReport](https://idea.acemap.cn/) got accepted at SIGIR 2025!
 - *2024.12.01* &nbsp; 🎉 One paper got accepted at SANER 2025!
 - *2024.09.27* &nbsp; 🎉 One paper got accepted at EMNLP 2024, one paper got accepted at NeurIPS 2024!
@@ -41,6 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=E-VwoYEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 
 - <span class='paper-badge'>SIGIR 2025</span> **DeepReport: An AI-assisted Idea Generation System for Scientific Research**<br>
 *<u><b>Yi Xu</b></u>, Luoyi Fu, Shuqian Sheng, Bo Xue, Jiaxin Ding, Lei Zhou, Xinbing Wang, Chenghu Zhou*<br>
