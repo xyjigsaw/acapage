@@ -21,7 +21,7 @@ I obtained my Ph.D. in Computer Science in <a href="https://www.acemap.info/"><i
 
 My research interests include **natural language processing**, **knowledge graphs** and **data mining**. Specifically, I am devoted to research of large language models and temporal knowledge graph.
 
-What's more, welcome to my technical blog [OmegaXYZ](https://en.omegaxyz.com/) and [中文博客](https://www.omegaxyz.com/).
+What's more, welcome to my technical [Blog](https://omegaxyz.com/).
 
 
 <!--

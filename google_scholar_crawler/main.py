@@ -3,12 +3,20 @@ import jsonpickle
 import json
 from datetime import datetime
 import os
+import sys
 
 
 # Setup proxy
 pg = ProxyGenerator()
-pg.FreeProxies()  # Use free rotating proxies
-scholarly.use_proxy(pg)
+try:
+    pg.FreeProxies()  # Use free rotating proxies
+    scholarly.use_proxy(pg)
+except TypeError as exc:
+    # Some free-proxy releases changed get_proxy_list(repeat), which breaks
+    # scholarly's FreeProxies integration when dependency resolution drifts.
+    print(f"Free proxy setup failed, continuing without proxy: {exc}", file=sys.stderr)
+except Exception as exc:
+    print(f"Free proxy setup failed, continuing without proxy: {exc}", file=sys.stderr)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
