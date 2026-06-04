@@ -1,37 +1,58 @@
 from scholarly import scholarly, ProxyGenerator
-import jsonpickle
 import json
 from datetime import datetime
 import os
+import signal
 import sys
 
 
-# Setup proxy
-pg = ProxyGenerator()
-try:
+RESULTS_DIR = "results"
+GS_DATA_PATH = os.path.join(RESULTS_DIR, "gs_data.json")
+SHIELDSIO_DATA_PATH = os.path.join(RESULTS_DIR, "gs_data_shieldsio.json")
+FETCH_TIMEOUT_SECONDS = int(os.getenv("GOOGLE_SCHOLAR_TIMEOUT_SECONDS", "600"))
+
+
+def raise_timeout(signum, frame):
+    raise TimeoutError(f"Google Scholar update timed out after {FETCH_TIMEOUT_SECONDS} seconds")
+
+
+def has_previous_results():
+    return os.path.exists(GS_DATA_PATH) and os.path.exists(SHIELDSIO_DATA_PATH)
+
+
+def fetch_author():
+    pg = ProxyGenerator()
     pg.FreeProxies()  # Use free rotating proxies
     scholarly.use_proxy(pg)
-except TypeError as exc:
-    # Some free-proxy releases changed get_proxy_list(repeat), which breaks
-    # scholarly's FreeProxies integration when dependency resolution drifts.
-    print(f"Free proxy setup failed, continuing without proxy: {exc}", file=sys.stderr)
-except Exception as exc:
-    print(f"Free proxy setup failed, continuing without proxy: {exc}", file=sys.stderr)
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
-scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
-name = author['name']
-author['updated'] = str(datetime.now())
-author['publications'] = {v['author_pub_id']:v for v in author['publications']}
+    author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+    scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+    author['updated'] = str(datetime.now())
+    author['publications'] = {v['author_pub_id']: v for v in author['publications']}
+    return author
+
+
+try:
+    signal.signal(signal.SIGALRM, raise_timeout)
+    signal.alarm(FETCH_TIMEOUT_SECONDS)
+    author = fetch_author()
+except Exception as exc:
+    if has_previous_results():
+        print(f"Google Scholar update failed; keeping previous citation data: {exc}", file=sys.stderr)
+        sys.exit(0)
+    raise
+finally:
+    signal.alarm(0)
+
 print(json.dumps(author, indent=2))
-os.makedirs('results', exist_ok=True)
-with open(f'results/gs_data.json', 'w') as outfile:
+os.makedirs(RESULTS_DIR, exist_ok=True)
+with open(GS_DATA_PATH, 'w') as outfile:
     json.dump(author, outfile, ensure_ascii=False)
 
 shieldio_data = {
-  "schemaVersion": 1,
-  "label": "citations",
-  "message": f"{author['citedby']}",
+    "schemaVersion": 1,
+    "label": "citations",
+    "message": f"{author['citedby']}",
 }
-with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
+with open(SHIELDSIO_DATA_PATH, 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)

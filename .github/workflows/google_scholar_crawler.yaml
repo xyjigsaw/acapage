@@ -16,6 +16,10 @@ jobs:
     - name: Run
       run: |
         cd ./google_scholar_crawler
+        mkdir -p results
+        git fetch --depth=1 origin google-scholar-stats || true
+        git show FETCH_HEAD:gs_data.json > results/gs_data.json || true
+        git show FETCH_HEAD:gs_data_shieldsio.json > results/gs_data_shieldsio.json || true
         pip3 install -r requirements.txt
         python3 main.py
         cd ./results
