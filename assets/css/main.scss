@@ -46,10 +46,10 @@
     min-width: 5.4em;
     margin-right: 0.35em;
     padding: 0.18em 0.45em;
-    border: 1px solid rgba($link-color, 0.42);
+    border: 1px solid $link-color;
     border-radius: 3px;
-    background: rgba($link-color, 0.08);
-    color: $link-color-hover;
+    background: $link-color;
+    color: #fff;
     font-size: 0.72em;
     font-weight: 700;
     line-height: 1.25;
@@ -58,9 +58,9 @@
 }
 
 .paper-prebadge {
-    border-color: rgba(#5b6b73, 0.35);
-    background: rgba(#5b6b73, 0.08);
-    color: #4f5e66;
+    border-color: #b8791d;
+    background: #fff8ec;
+    color: #8a560f;
 }
 
 .paper-asset {
@@ -82,9 +82,9 @@
         text-decoration: none;
 
         &:hover {
-            border-color: rgba($link-color-hover, 0.55);
-            background: rgba($link-color, 0.08);
-            color: $link-color-hover;
+            border-color: $link-color-hover;
+            background: $link-color-hover;
+            color: #fff;
         }
     }
 }
