@@ -73,11 +73,10 @@
     display: block;
     position: sticky;
     top: 4.5em;
-    padding: 1.1em;
-    border: 1px solid rgba($border-color, 0.9);
-    border-radius: 6px;
-    background: rgba(#fff, 0.72);
-    box-shadow: 0 10px 30px rgba(#1f2933, 0.045);
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
   }
   display: flex;
   justify-content: flex-start;
@@ -101,11 +100,11 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 6px;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 0;
-      border: 1px solid rgba($border-color, 0.95);
+      border: 0;
     }
   }
 }
