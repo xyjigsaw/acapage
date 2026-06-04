@@ -76,6 +76,7 @@
       width: 4.5em;
       margin-top: 0.35em;
       border-bottom: 1px solid $border-color;
+      pointer-events: none;
     }
 
     a {
@@ -104,11 +105,10 @@
   a {
     text-decoration: none;
     border-bottom: 1px solid rgba($link-color, 0.42);
-    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+    transition: color 0.15s ease, border-color 0.15s ease;
 
     &:hover {
       color: $link-color-hover;
-      background-color: rgba($link-color, 0.08);
       border-bottom-color: rgba($link-color-hover, 0.95);
 
       img {
