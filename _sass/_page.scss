@@ -5,9 +5,9 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 1em;
-  padding-left: 1em;
-  padding-right: 1em;
+  margin-top: 1.5em;
+  padding-left: 1.25em;
+  padding-right: 1.25em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -18,8 +18,8 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    @include span(9.7 of 12 last);
+    @include prefix(0.6 of 12);
     @include suffix(0 of 12);
   }
 
@@ -61,13 +61,18 @@
     }
   }
   h1 {
-    margin-top: 1em;
-    padding-bottom: 0.5em;
+    margin-top: 1.65em;
+    margin-bottom: 0.65em;
+    padding-bottom: 0.35em;
+    color: #1f2933;
+    font-size: $type-size-3;
+    letter-spacing: 0;
     border-bottom: 1px solid $border-color;
   }
 
   p, li, dl {
     font-size: 1em;
+    line-height: 1.62;
   }
 
   /* paragraph indents */
@@ -84,10 +89,12 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: 1px solid rgba($link-color, 0.28);
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color-hover;
+      border-bottom-color: rgba($link-color-hover, 0.65);
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);

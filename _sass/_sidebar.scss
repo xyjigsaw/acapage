@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(2.3 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -71,6 +71,13 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
+    position: sticky;
+    top: 4.5em;
+    padding: 1.1em;
+    border: 1px solid rgba($border-color, 0.9);
+    border-radius: 6px;
+    background: rgba(#fff, 0.72);
+    box-shadow: 0 10px 30px rgba(#1f2933, 0.045);
   }
   display: flex;
   justify-content: flex-start;
@@ -94,11 +101,11 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 50%;
+    border-radius: 6px;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0;
+      border: 1px solid rgba($border-color, 0.95);
     }
   }
 }
@@ -134,10 +141,13 @@
   }
   font-family: $sans-serif;
   font-size: $type-size-4;
+  color: #1f2933;
+  line-height: 1.2;
 }
 
 .author__bio {
   margin: 0;
+  color: mix(#fff, $text-color, 18%);
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -240,15 +250,14 @@
   a {
     display: block;
     margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding: 3px 5px 3px 0;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: $type-size-6;
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color-hover;
+      text-decoration: none;
     }
   }
 }

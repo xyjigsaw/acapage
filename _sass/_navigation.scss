@@ -175,13 +175,15 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: transparent;
 
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0;
+    padding: 0.45rem 0;
     color: $masthead-link-color;
+    font-size: $type-size-6;
+    letter-spacing: 0;
     text-decoration: none;
 
     &:hover {
@@ -231,8 +233,8 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        height: 2px;
+        background: $link-color;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;

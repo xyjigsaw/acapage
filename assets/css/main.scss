@@ -40,43 +40,64 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.paper-badge {
-    background-color:#1565c0; 
-    color: white; 
-    font-size: .85em; 
-    padding: 2px 0.3rem;
-    border-radius:5px;
+.paper-badge,
+.paper-prebadge {
+    display: inline-block;
+    min-width: 5.4em;
+    margin-right: 0.35em;
+    padding: 0.18em 0.45em;
+    border: 1px solid rgba($link-color, 0.42);
+    border-radius: 3px;
+    background: rgba($link-color, 0.08);
+    color: $link-color-hover;
+    font-size: 0.72em;
+    font-weight: 700;
+    line-height: 1.25;
+    text-align: center;
+    vertical-align: 0.08em;
 }
 
 .paper-prebadge {
-    background-color:#2aa198; 
-    color: white; 
-    font-size: .85em; 
-    padding: 2px 0.3rem;
-    border-radius:5px;
+    border-color: rgba(#5b6b73, 0.35);
+    background: rgba(#5b6b73, 0.08);
+    color: #4f5e66;
 }
 
 .paper-asset {
-    font-size: .6875em; 
-    padding: 2px 0.2rem;
-    border-radius:5px;
-    color: #1565c0;
-    border-color: #1565c0;
-    border-style: solid;
-    border-width: 1px;
+    display: inline-block;
+    margin-top: 0.35em;
+    margin-right: 0.15em;
+    padding: 0;
+    border: 0;
+    color: $link-color;
+    font-size: 0.76em;
+
     a {
+        display: inline-block;
+        padding: 0.16em 0.42em;
+        border: 1px solid rgba($link-color, 0.28);
+        border-radius: 3px;
+        background: rgba(#fff, 0.56);
+        color: $link-color;
         text-decoration: none;
+
+        &:hover {
+            border-color: rgba($link-color-hover, 0.55);
+            background: rgba($link-color, 0.08);
+            color: $link-color-hover;
+        }
     }
 }
 
 .paper-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: 2em 0 2em 0;
-    
+    margin: 1.1em 0;
+    padding: 1.1em 0;
+    border-top: 1px solid $border-color;
 
     .paper-box-image{
         justify-content: center;
@@ -85,9 +106,10 @@
         order: 2;
         img {
             max-width: 350px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: none;
             object-fit: cover;
-            border-radius: 5px;
+            border: 1px solid $border-color;
+            border-radius: 4px;
         }
     }
     
@@ -100,14 +122,14 @@
     @include breakpoint($medium) {
         .paper-box-image{
             min-width: 200px;
-            max-width: 50%;
+            max-width: 38%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
-            padding-left: 3em;
-            max-width: 50%;
+            padding-left: 2em;
+            max-width: 62%;
             order: 2;
         }
 
@@ -116,7 +138,7 @@
 
 }
 
-$scroll_offset : 2em;
+$scroll_offset : 4em;
 h1:before, .anchor:before { 
     content: ''; 
     display: block; 
@@ -140,4 +162,42 @@ h1:before, .anchor:before {
 
 a:hover {
     color: $link-color-hover;
+}
+
+.page__content > p:first-of-type {
+    margin-top: 0.2em;
+    padding-bottom: 0.8em;
+    color: #1f2933;
+    font-size: 1.04em;
+}
+
+.page__content > ul {
+    margin-top: 0.35em;
+}
+
+.page__content > ul > li {
+    margin-bottom: 0.42em;
+}
+
+.page__content li:has(.paper-badge),
+.page__content li:has(.paper-prebadge) {
+    margin-bottom: 1.05em;
+    padding-left: 0.1em;
+    list-style: none;
+}
+
+.page__content li:has(.paper-badge)::marker,
+.page__content li:has(.paper-prebadge)::marker {
+    content: "";
+}
+
+.page__content li:has(.paper-badge) > strong,
+.page__content li:has(.paper-prebadge) > strong {
+    color: #202832;
+}
+
+.page__content p:first-of-type img {
+    width: auto !important;
+    max-height: 1.2em;
+    vertical-align: -0.18em;
 }
