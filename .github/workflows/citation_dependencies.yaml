@@ -1,0 +1,27 @@
+name: Check Citation Dependencies
+
+on:
+  push:
+    branches: [fix/citation-workflow]
+  pull_request:
+    paths:
+      - google_scholar_crawler/**
+      - .github/workflows/citation_dependencies.yaml
+
+permissions:
+  contents: read
+
+jobs:
+  imports:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install crawler dependencies
+        run: python -m pip install -r google_scholar_crawler/requirements.txt
+      - name: Check dependency compatibility
+        run: |
+          python -m pip check
+          python -c "from bibtexparser.bibdatabase import BibDatabase; from scholarly import scholarly, ProxyGenerator"
