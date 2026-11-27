@@ -1,33 +1,95 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  page_build:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+  push:
+    branches: [master]
+    paths:
+      - .github/workflows/google_scholar_crawler.yaml
+      - google_scholar_crawler/**
+
+permissions:
+  contents: read
+
+concurrency:
+  group: citation-data-publish
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
-        mkdir -p results
-        git fetch --depth=1 origin google-scholar-stats || true
-        git show FETCH_HEAD:gs_data.json > results/gs_data.json || true
-        git show FETCH_HEAD:gs_data_shieldsio.json > results/gs_data_shieldsio.json || true
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Check out last published data
+        uses: actions/checkout@v6
+        with:
+          ref: google-scholar-stats
+          path: citation-published
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Install crawler dependencies
+        run: python -m pip install -r google_scholar_crawler/requirements.txt
+      - name: Refresh Google Scholar data
+        id: refresh
+        working-directory: google_scholar_crawler
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        run: |
+          test -n "$GOOGLE_SCHOLAR_ID" || { echo "::error::GOOGLE_SCHOLAR_ID is not configured"; exit 1; }
+          mkdir -p results
+          cp ../citation-published/gs_data.json ../citation-published/gs_data_shieldsio.json results/
+          python3 main.py
+          python3 - <<'PY'
+          import json
+          import os
+          from datetime import datetime
+          from pathlib import Path
+
+          def load(path):
+              stats = json.loads((path / "gs_data.json").read_text(encoding="utf-8"))
+              badge = json.loads((path / "gs_data_shieldsio.json").read_text(encoding="utf-8"))
+              updated = datetime.fromisoformat(stats["updated"])
+              if (type(stats["citedby"]) is not int or stats["citedby"] < 0
+                      or not isinstance(stats["publications"], dict) or not stats["publications"]
+                      or badge.get("schemaVersion") != 1
+                      or badge.get("message") != str(stats["citedby"])):
+                  raise ValueError("Citation data is incomplete or does not match its badge")
+              return stats, badge, updated
+
+          old, old_badge, old_stamp = load(Path("../citation-published"))
+          new, new_badge, new_stamp = load(Path("results"))
+          if new_stamp == old_stamp:
+              if (new, new_badge) != (old, old_badge):
+                  raise ValueError("Citation data changed without a fresh source timestamp")
+              status = "stale"
+              summary = f"Google Scholar not refreshed. Retained {old['citedby']} citations from {old_stamp:%Y-%m-%d %H:%M}."
+              print(f"::warning::{summary}")
+          elif new_stamp > old_stamp:
+              status = "fresh"
+              summary = f"Google Scholar refreshed: {new['citedby']} citations."
+          else:
+              raise ValueError("Refusing to publish data older than the last good snapshot")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as output:
+              print(f"status={status}", file=output)
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as report:
+              print(summary, file=report)
+          PY
+      - name: Publish fresh citation data
+        if: steps.refresh.outputs.status == 'fresh'
+        working-directory: citation-published
+        run: |
+          cp ../google_scholar_crawler/results/gs_data.json ../google_scholar_crawler/results/gs_data_shieldsio.json .
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- gs_data.json gs_data_shieldsio.json
+          git commit -m "Update Google Scholar citation data"
+          git push origin HEAD:refs/heads/google-scholar-stats
